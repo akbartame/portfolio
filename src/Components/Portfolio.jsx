@@ -31,10 +31,10 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "🏥Darsinurse Gateway - Medical IoT Platform",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Collaboration to create an IoT platform for hospital patient real-time monitoring",
+    url: "https://github.com/hildansaputraaa/darsinurse",
   },
   {
     title: "Web Development for Beginners",
